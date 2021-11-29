@@ -1,0 +1,23 @@
+body {
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    background-color: #000;
+}
+.fl_left {
+    float: left;
+}
+
+.fl_right {
+    float: right;
+}
+
+/*estilo para los enlaces*/
+a:link {color: #ff0;}
+
+a:visited {color: #ff0;}
+
+footer {
+    display: block;
+    margin: 10px;
+}
